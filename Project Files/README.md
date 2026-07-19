@@ -67,6 +67,9 @@ Run the application:
 python -m streamlit run app.py```
 
 ---
+Run your app:
+
+streamlit run app.py
 
 ## Project Structure
 
